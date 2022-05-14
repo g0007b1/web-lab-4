@@ -1,0 +1,50 @@
+{
+  "books": [
+    {
+      "title": "Полиция памяти",
+      "author": "Йоко Огава",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544335119l/37004370.jpg",
+      "price": 14.72,
+      "currency": "$",
+      "category": "Научная фантастика > Антиутопия",
+      "isbn13": 9781101911815,
+      "description": "На безымянном острове исчезают предметы: сначала шляпы, потом ленты, птицы, розы..."
+    },
+
+    {
+      "title": "Носорог и другие пьесы",
+      "author": "Eugène Ionesco",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347454436l/323823.jpg",
+      "price": 16.00,
+      "currency": "$",
+      "category": "Пьесы > Театр",
+      "publisher": "Гроув Пресс",
+      "isbn13": 9780802130983,
+      "description": "В маленьком городке внезапно появляется носорог, бродящий по его мирным улочкам."
+    },
+
+    {
+      "title": "Помни о смерти",
+      "author": "Мьюриель Спарк",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348186701l/120158.jpg",
+      "price": 15.90,
+      "currency": "$",
+      "category": "Роман",
+      "isbn13": 9780811223041,
+      "publisher": "Издательская корпорация «Новые направления»",
+      "description": "В Лондоне конца 1950-х что-то сверхъестественное окружает группу пожилых друзей."
+    },
+
+    {
+      "title": "Атлас ИИ",
+      "author": "Кейт Крофворд",
+      "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1603542518l/50131136._SX318_.jpg",
+      "price": 25.76,
+      "currency": "$",
+      "category": "Документальная литература > Технологии",
+      "publisher": "Издательство Йельского университета",
+      "isbn13": 9780300209570,
+      "description": "Скрытые издержки искусственного интеллекта — от природных ресурсов и рабочей силы до конфиденциальности, равенства и свободы."
+    }
+  ]
+}
